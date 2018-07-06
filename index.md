@@ -6,26 +6,20 @@ pdf: true
 # __刘柏__
 
 <div id="webaddress">
-<i class="fi-home" style="margin-left:1em"></i>
-<a href="http://columbia.edu/~wn2155" style="margin-left:0.5em">columbia.edu/~wn2155</a>
+<i class="fi-telephone-accessible" style="margin-left:1em"></i>
+<a margin-left:0.5em">13170872606</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="wn2155@columbia.edu" style="margin-left:0.5em">woden@andrew.cmu.edu</a>
+<amargin-left:0.5em"13170872606@163.com</a>
 </div>
 
-## Education
+## 教育
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __南昌大学__ `2013.9 - 2017.5`
 ```
-Pittsburgh, PA
+学士
 ```
-- Ph.D. in Software Engineering
+-  信息工程学院-物联网工程
 
-### __Columbia University__ `2016.9 - 2018.5`
-```
-New York, NY
-```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
 
 ### __Dickinson College__ `2013.9 - 2016.5`
 ```
