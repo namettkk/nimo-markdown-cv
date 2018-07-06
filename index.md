@@ -1,5 +1,5 @@
 ---
-layout: liubai
+layout: cv
 title: 简历
 pdf: true
 ---
