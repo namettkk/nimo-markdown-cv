@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 简历
 pdf: true
 ---
 # __刘柏__
