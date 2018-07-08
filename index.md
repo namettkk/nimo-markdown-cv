@@ -23,9 +23,9 @@ pdf: true
 ## 工作经历
 
 __郑州格物至微科技有限公司__ `2017.5 - 2018.6`
-_产品经理_<br>
+<br> _产品经理_ <br>
 
-_Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
+
 [[PDF](assets/dsldi.pdf)]
 [[slides](assets/dsldi-presentation.pdf)]
 [[www](http://penrose.ink)]
