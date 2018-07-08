@@ -12,7 +12,7 @@ pdf: true
 <a style="margin-left:0.5em">13170872606@163.com</a>
 </div>
 
-## 教育
+## 教育背景
 
 ### __南昌大学__ `2013.9 - 2017.5`
 ```
@@ -21,20 +21,19 @@ pdf: true
 -  信息工程学院-物联网工程
 
 
-## Publications
+## 工作经历
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
+__郑州格物至微科技有限公司__ `2017.5 - 2018.6 
+_产品经理_<br>
+<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
 [[PDF](assets/dsldi.pdf)]
 [[slides](assets/dsldi-presentation.pdf)]
 [[www](http://penrose.ink)]
 [[repo](https://github.com/penrose/penrose)]
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
 
-## Experience
+
+## 项目经历
 
 ### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
 _Research Assistant_<br>
