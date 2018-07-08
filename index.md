@@ -18,12 +18,12 @@ pdf: true
 ```
 学士
 ```
--  信息工程学院-物联网工程
+  信息工程学院-物联网工程
 
 ## 工作经历
 
 __郑州格物至微科技有限公司__ `2017.5 - 2018.6`
-<br> _产品经理_ <br>
+ <br> _产品经理_ <br>
 
 [[PDF](assets/dsldi.pdf)]
 [[slides](assets/dsldi-presentation.pdf)]
