@@ -18,25 +18,21 @@ pdf: true
 ```
 学士
 ```
-  信息工程学院-物联网工程
+  信息工程学院--物联网工程
 
 ## 工作经历
 
 __郑州格物至微科技有限公司__ `2017.5 - 2018.6`
   <br> _产品经理_ <br>
 
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-
 
 ## 项目经历
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+### __人脸迎宾系统__  `2017.5 - 2017.8`
+_用户调研 原型设计 产品设计_<br>
+__目标：__ 获取用户需求 __行动：__ 蹲点观察中原区23个楼盘的销售流程，并随机采访13个楼盘的销售经理了解需求。独立完成数据分析并形成用户需求分析报告。 __结果：__ 60%的用户需求最终转化为实际项目（6/10）
+__目标：__ 按需求完成系统交互原型 __合作：__ 与UI设计师合作 __行动：__ 基于用户调研的结果，使用balsamiq完成系统功能的原型设计，与UI设计师合作完成预览图，输出PRD文档（30页，10112字） __结果：__ PRD在规定时间内通过评审
+
 
 ### __Columbia University, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
 _Research Assistant_<br>
