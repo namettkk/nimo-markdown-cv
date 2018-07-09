@@ -57,12 +57,10 @@ __目标：__ 获取甲方需求 __行动：__ 约见甲方，了解应用场景
 
 __目标：__ 提交项目方案 __合作：__ 与技术总监沟通，确定开发周期与人力成本，并对项目中可能发生的问题做预估。 __行动：__ 根据甲方实际需求绘制系统框架图、流程图、界面原型，输出项目方案（31页，8164字）。 __结果：__ 方案在规定期限内完成，并受到甲方好评
 
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
 
-## Teaching
+## 自我评价
 
+__喜欢新事物__  
 Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
 Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
 Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
