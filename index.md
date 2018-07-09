@@ -61,7 +61,6 @@ __目标：__ 提交项目方案 __合作：__ 与技术总监沟通，确定开
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
-
 ## Teaching
 
 Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
