@@ -58,16 +58,14 @@ __目标：__ 获取甲方需求 __行动：__ 约见甲方，了解应用场景
 __目标：__ 提交项目方案 __合作：__ 与技术总监沟通，确定开发周期与人力成本，并对项目中可能发生的问题做预估。 __行动：__ 根据甲方实际需求绘制系统框架图、流程图、界面原型，输出项目方案（31页，8164字）。 __结果：__ 方案在规定期限内完成，并受到甲方好评。
 
 
-## Honors & Awards
+## 技能知识
 
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honor `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+__office__ 办公软件 `熟练度-5年` <br>
+__Mindmanager__ 思维导图软件 `熟练度-2年` <br>
+__Balsamiq__ 产品原型软件 `熟练度-1年` <br>
+__Axure__ 产品原型软件 `熟练度-3个月` <br>
+__Python编程/数据分析__ `熟练度-4个月` <br>
+
 
 
 ## 自我评价
