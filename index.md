@@ -58,14 +58,6 @@ __目标：__ 获取甲方需求 __行动：__ 约见甲方，了解应用场景
 __目标：__ 提交项目方案 __合作：__ 与技术总监沟通，确定开发周期与人力成本，并对项目中可能发生的问题做预估。 __行动：__ 根据甲方实际需求绘制系统框架图、流程图、界面原型，输出项目方案（31页，8164字）。 __结果：__ 方案在规定期限内完成，并受到甲方好评。
 
 
-## 自我评价
-__喜欢学习__ 对新知识充满好奇，工作期间自学完成廖雪峰 __Python__ 教程、谷歌机器学习平台 __TensorFlow__ 教程。对 __区块链__ 有一定认识，阅读过《京东区块链技术实践白皮书-2018.3》，《腾讯区块链方案白皮书》，重点关注新技术的落地和商业模式的构建。<br>
-__喜欢新事物__  极客爱好者，动手能力强。树莓派第一批玩家，大学期间为了解最前沿黑科技，独立架设vps。积极尝试新鲜事物，从使用者的角度体会产品人的用心，不断巩固和提高产品思维。<br>
-__喜欢APP__ 除国内主流APP外，对Twitter、Telegram、SoundCloud等国外APP也有所涉猎，注重互联网+时代人与人连接的场景，偏向 __PUGC__ 方向
-<br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-
 ## Honors & Awards
 
 Phi Beta Kappa `Dickinson, 2018` <br>
@@ -76,6 +68,13 @@ Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
 Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
+
+
+## 自我评价
+__喜欢学习__ 对新知识充满好奇，工作期间自学完成廖雪峰 __Python__ 教程、谷歌机器学习平台 __TensorFlow__ 教程。对 __区块链__ 有一定认识，阅读过《京东区块链技术实践白皮书-2018.3》，《腾讯区块链方案白皮书》，重点关注新技术的落地和商业模式的构建。<br>
+__喜欢新事物__  极客爱好者，动手能力强。树莓派第一批玩家，大学期间为了解前沿黑科技，独立架设vps。积极尝试新鲜事物，从使用者的角度体会产品人的用心，注重互联网+时代人与人连接的场景，不断巩固和提高产品思维。<br>
+__喜欢APP__ 除国内主流APP外，对Twitter、Telegram、SoundCloud等国外APP也有所涉猎。 __GTD__ 轻度使用者(1年)，Things3、时间块、OneNote、Dropbox深度使用者，善于使用APP提升工作效率。
+<br>
 
 <!-- ### Footer
 
