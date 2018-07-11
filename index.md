@@ -3,7 +3,7 @@ layout: cv
 title: 简历
 pdf: true
 ---
-#__刘柏__
+# __刘柏__
 
 ## 教育背景
 
