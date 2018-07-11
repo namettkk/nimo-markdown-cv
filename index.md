@@ -3,13 +3,7 @@ layout: cv
 title: 简历
 pdf: true
 ---
-
-
-![图片pic1]({{ "/assets/2.png" | absolute_url }})
-
-
-`#__刘柏__` 
-
+#__刘柏__
 
 ## 教育背景
 
