@@ -3,9 +3,9 @@ layout: cv
 title: 简历
 pdf: true
 ---
-# __刘柏__ 
+# __刘柏__ `![图片pic1]({{ "/assets/2.png" | absolute_url }})`
 
-![图片pic1]({{ "/assets/2.png" | absolute_url }})
+
 
 <div id="webaddress">
 <i class="fi-telephone-accessible" style="margin-left:1em"></i>
