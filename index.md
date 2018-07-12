@@ -4,7 +4,6 @@ title: 简历
 pdf: true
 ---
 
-
 # __刘柏__
 
 <div id="webaddress">
