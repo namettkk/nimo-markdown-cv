@@ -4,8 +4,8 @@ title: 简历
 pdf: true
 ---
 
+![AltText @2x](/assets/2.png)
 
-<img src="/assets/2.png" width="50%" alt="AltText" />
 
 # __刘柏__
 
