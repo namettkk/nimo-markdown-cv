@@ -3,9 +3,10 @@ layout: cv
 title: 简历
 pdf: true
 ---
-# __刘柏__
 
 <img src="/assets/2.png" width="50%" alt="AltText" />
+
+# __刘柏__
 
 <div id="webaddress">
  <i class="fi-telephone-accessible" style="margin-left:1em"></i>
