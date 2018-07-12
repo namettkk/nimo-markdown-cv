@@ -5,6 +5,7 @@ pdf: true
 ---
 # __刘柏__
 
+<img src="/assets/2.png" width="50%" alt="AltText" />
 
 <div id="webaddress">
  <i class="fi-telephone-accessible" style="margin-left:1em"></i>
